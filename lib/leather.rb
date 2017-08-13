@@ -1,5 +1,5 @@
 require 'devise'
-require 'bootstrap-sass'
+require 'bootstrap'
 require 'high_voltage'
 require 'haml-rails'
 
