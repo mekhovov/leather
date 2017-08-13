@@ -1,4 +1,4 @@
-$ ->
-  $(".navbar-transparent-top").affix
-    offset:
-      top: 10
+# $ ->
+#   $(".navbar-transparent-top").affix
+#     offset:
+#       top: 10
