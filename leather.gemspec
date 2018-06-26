@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency "devise"
   s.add_runtime_dependency "haml-rails"
   s.add_runtime_dependency "high_voltage"
-  s.add_dependency "bootstrap", "~> 4.0.0.alpha6"
+  s.add_dependency "bootstrap", "~> 4.1.1"
 
   s.add_development_dependency "jquery-rails"
   s.add_development_dependency "sqlite3"
